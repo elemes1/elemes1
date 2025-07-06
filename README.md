@@ -17,7 +17,7 @@ I am passionate about building technology that creates real-world impact and con
 
 
 ### [Nuimage Medical](https://nuimagemedical.com/)
-- **Telemedicine Platform:** Next-gen telehealth system.
+- **[Telemedicine Platform](https://nuimagemedical.com/about):** Next-gen telehealth system.
 
 
 ### [Absolute Pharmacy](https://absoluterx.com/)
