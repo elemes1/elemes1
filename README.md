@@ -20,7 +20,7 @@ I am passionate about building technology that creates real-world impact and con
 - **Telemedicine Platform:** Next-gen telehealth system.
 
 
-### [Absolute Pharmacy] (https://absoluterx.com/)
+### [Absolute Pharmacy](https://absoluterx.com/)
 - **[Pharmacy Software](https://portal.absoluterx.com/administrators/login):** End-to-end pharmacy management.
 - **[Direct Consumer Software](https://direct.absoluterx.com/home):** Streamlined pharmacy product ordering for consumers.
 
